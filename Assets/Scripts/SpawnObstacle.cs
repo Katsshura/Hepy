@@ -8,7 +8,8 @@ public class SpawnObstacle : MonoBehaviour {
     public float distance;
 
     private float x = 0;
-    private int numberOfObstacles = 0;
+
+    public int numberOfObstacles = 0;
 
     void FixedUpdate()
     {
@@ -19,7 +20,7 @@ public class SpawnObstacle : MonoBehaviour {
             x++;
             numberOfObstacles++;
         }
-        Debug.Log(x);
+
     }
 
 }
