@@ -2,9 +2,9 @@
 
 Game made with Unity3D for presentation and workshop at Campus Party Brazil 2019.
 
-The goal of this project is to introduce people with little knowledge in programming and interested in developing games for mobile devices. Also to prove that to take the first step and make your first game simple and fun is not necessary to have an in-depth technical knowledge.
+The goal of this project is to introduce people with little knowledge in programming and are interested in developing games for mobile devices. Also to prove that to take the first step and make your first game simple and fun is not necessary to have an in-depth technical knowledge.
 
-### Prerequisites
+### Setup
 
 To be able to run this project and build apk's you'll need:
 
