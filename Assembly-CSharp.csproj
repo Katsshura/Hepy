@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{605AAD8D-B8E6-1821-0991-8DA704BDB52F}</ProjectGuid>
+    <ProjectGuid>{F357BE91-6B55-8DF6-FDB1-4369CE9AE860}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,16 +66,16 @@
     <Compile Include="Assets\Scripts\SpawnObstacle.cs" />
     <None Include="Assets\Sprites\Licenses\SpritesLicenses.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Emerson Alves/Documents/Games/FlappyHeli/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Emerson Alves/Documents/Games/Hepy/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Emerson Alves/Documents/Games/FlappyHeli/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Emerson Alves/Documents/Games/Hepy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Emerson Alves/Documents/Games/FlappyHeli/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Emerson Alves/Documents/Games/Hepy/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Emerson Alves/Documents/Games/FlappyHeli/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Emerson Alves/Documents/Games/Hepy/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
