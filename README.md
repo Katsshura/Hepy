@@ -35,3 +35,10 @@ If you are on a new project:
 - Now back to Build Settings, connect your device to your computer and click build and run.
 
 Done, you should see the app running on your mobile.
+
+### Contact
+
+- Email
+```
+xr.emerson@gmail.com
+```
