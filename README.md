@@ -8,7 +8,7 @@ The goal of this project is to introduce people with little knowledge in program
 
 To be able to run this project and build apk's you'll need:
 
-* [Unity3D](https://unity3d.com/pt/get-unity/download) - 2018.2 or newer
+* [Unity3D](https://unity3d.com/pt/get-unity/download?thank-you=update&download_nid=58975&os=Win) - 2018.2 or newer
 * [Android Studio](https://developer.android.com/studio/?hl=pt-br) - Needed to use ADB
 * [Java JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Needed to compile apk's
 
@@ -42,3 +42,6 @@ Done, you should see the app running on your mobile.
 ```
 xr.emerson@gmail.com
 ```
+
+### Assets
+[Assets](https://drive.google.com/open?id=1f-Dor9P26QRUjm_Qkbkz4QAdQhImcSGb) - Sprites and fonts
